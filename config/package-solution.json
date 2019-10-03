@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "DrugDevelopment-LPD-All-Events",
+    "id": "5eb1c981-4042-4998-8ccb-3a2f95e5a534",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": false,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/DrugDevelopment-LPD-All-Events.sppkg"
+  }
+}
